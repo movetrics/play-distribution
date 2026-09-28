@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "revision": 1,
+  "games": [
+    {
+      "id": "tidekeepers",
+      "title": "Tidekeepers",
+      "summary": "Restore a little wonder on a coastal island. The original force-controlled adventure.",
+      "version": "0.3.0-dev.16",
+      "channel": "development",
+      "platform": "windows-x64",
+      "minimum_launcher_version": "0.1.0",
+      "url": "https://github.com/movetrics/play-distribution/releases/download/play-v0.1.0-preview.1/tidekeepers-0.3.0-dev.16-windows-x64.zip",
+      "bytes": 51251933,
+      "sha256": "58d54c05e2dbf203cfbc6fcc1a4952efaa02a209c79bbae745e3dec9bf5f20c6",
+      "manifest_sha256": "99209beee30609077550986da7fadc3a51286ee3feb7e7a8883c5b5d2a87dc1e",
+      "unpacked_bytes": 136658982,
+      "release_notes": "First Movetrics Play Preview. Physical hardware and clean-machine acceptance remain pending."
+    },
+    {
+      "id": "balance-canvas",
+      "title": "Balance Canvas",
+      "summary": "A beautiful view of relative balance.",
+      "version": "0.1.0",
+      "channel": "development",
+      "platform": "windows-x64",
+      "minimum_launcher_version": "0.1.0",
+      "url": "https://github.com/movetrics/play-distribution/releases/download/play-v0.1.0-preview.1/balance-canvas-0.1.0-windows-x64.zip",
+      "bytes": 44997702,
+      "sha256": "650ada9c79ffac5cf78b15a3838732ebe53e5feab5b789961e03df9b3440f272",
+      "manifest_sha256": "e9ee97cfd1bdd399a4b7d356be193c9ef1b2d28bc70b89f84e9f019eaa48c4e4",
+      "unpacked_bytes": 116579530,
+      "release_notes": "First Movetrics Play Preview. Physical hardware and clean-machine acceptance remain pending."
+    },
+    {
+      "id": "force-studio",
+      "title": "Force Studio",
+      "summary": "Original signals, clear instruments, and movement in sound.",
+      "version": "0.1.0",
+      "channel": "development",
+      "platform": "windows-x64",
+      "minimum_launcher_version": "0.1.0",
+      "url": "https://github.com/movetrics/play-distribution/releases/download/play-v0.1.0-preview.1/force-studio-0.1.0-windows-x64.zip",
+      "bytes": 45324664,
+      "sha256": "78164e76aff49051d4008d3865fa0b1c11aac3a19f5fadf42df1d616754a680a",
+      "manifest_sha256": "4a737dce396f59f43e964362eb9c4028f0dca90994f3a9b9dc357dc8a3c5ce85",
+      "unpacked_bytes": 116581291,
+      "release_notes": "First Movetrics Play Preview. Physical hardware and clean-machine acceptance remain pending."
+    },
+    {
+      "id": "orbit",
+      "title": "Orbit",
+      "summary": "Move into a target, hold, and find your centre.",
+      "version": "0.1.0",
+      "channel": "development",
+      "platform": "windows-x64",
+      "minimum_launcher_version": "0.1.0",
+      "url": "https://github.com/movetrics/play-distribution/releases/download/play-v0.1.0-preview.1/orbit-0.1.0-windows-x64.zip",
+      "bytes": 44978523,
+      "sha256": "637bf6c1b3368550961857bfcd1e7005df7d06d3a135a7be1f6173cff9108c4d",
+      "manifest_sha256": "b191bd7d766fb260efbf57f87974a49ba4e4e5955beb927e32f653de39c71dbc",
+      "unpacked_bytes": 116241847,
+      "release_notes": "First Movetrics Play Preview. Physical hardware and clean-machine acceptance remain pending."
+    }
+  ]
+}
