@@ -2,7 +2,9 @@
 
 A simple home for movement on Windows 11 x64.
 
-**Development Preview — first release preparation.** The [Releases page](https://github.com/movetrics/play-distribution/releases) contains published installers and portable downloads when available.
+**Movetrics Play 0.1.0 Preview is available.** [Download the Windows installer or portable ZIP](https://github.com/movetrics/play-distribution/releases/tag/play-v0.1.0-preview.1).
+
+Install the Setup EXE for a Start menu shortcut, or extract the Portable ZIP and open `MovetricsPlay.exe`. Keep the portable app's folders together. The installer runs for the current Windows user and does not install a hardware driver.
 
 Movetrics Play includes Tidekeepers 0.3.0-dev.16 and offers Balance Canvas, Force Studio and Orbit through its library. Choose **Download**, then **Play**. **Try demo** uses synthetic input. No account is required; installed activities remain playable offline.
 
